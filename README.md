@@ -69,3 +69,9 @@ https://app.powerbi.com/view?r=eyJrIjoiMzA0ZWIwODctNmYzMC00MDIzLTg1YmItZjk4OGUzN
 
 **Video Grupal Explicativo del Proyecto**
 https://youtu.be/HiJJ9eBKIWQ 
+
+
+
+##Enlace del Proyecto en archivo comprimido
+
+https://epnecuador-my.sharepoint.com/:u:/g/personal/alexis_farinango_epn_edu_ec/EYABhunwD1VOntdQLzFrICkB4k4GapO99puq63AiYdvQhg?e=Lm6v6T
