@@ -59,3 +59,12 @@ Ejecuta los diferentes scripts principales:
 
 Como resultado de la ejecución de cada apartado de codigo los datos se extraerán de los gestores de bases de datos y finalmente se almacenarán en el datalake.
 
+
+A continuación se presenta los enlaces de:
+**Informe del Proyecto**
+
+**Visualizaciones en Power BI**
+https://app.powerbi.com/view?r=eyJrIjoiMzA0ZWIwODctNmYzMC00MDIzLTg1YmItZjk4OGUzNGEyZGU3IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
+**Video Grupal Explicativo del Proyecto**
+https://youtu.be/HiJJ9eBKIWQ 
