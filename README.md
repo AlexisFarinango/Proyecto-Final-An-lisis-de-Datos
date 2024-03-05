@@ -48,6 +48,8 @@ Instala las dependencias:
 
 Se necesita haber cargado los diferentes archivos en las bases de datos respectivas
 
+Tanto la extracción, transformación y la carga de archivos y datasets en sus diferentes SGBD se encuentra detallado en su respectivo ipynb de los diferentes temas.
+
 Ejecuta los diferentes scripts principales: 
 	* conciertos.ipynb
 	* deportes.ipynb
