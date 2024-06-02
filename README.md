@@ -22,9 +22,9 @@ El proyecto se centra en la creación de un datalake que almacena datos de difer
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
 * Python 3.7 o superior
 * Jupyter Notebook o Visual Studio Code
-	Librerias necesarias para instalar y ejecutar Jupyter Notebook
-	- pip install notebook
-	- pip install jupyterlab
+Librerias necesarias para instalar y ejecutar Jupyter Notebook
+* pip install notebook
+* pip install jupyterlab
 	 
 
 **Instalación**
@@ -51,11 +51,11 @@ Se necesita haber cargado los diferentes archivos en las bases de datos respecti
 Tanto la extracción, transformación y la carga de archivos y datasets en sus diferentes SGBD se encuentra detallado en su respectivo ipynb de los diferentes temas.
 
 Ejecuta los diferentes scripts principales: 
-	* conciertos.ipynb
-	* deportes.ipynb
-	* juegos.ipynb
-	* noticias.ipynb
-	* peliculas.ipynb
+* conciertos.ipynb
+* deportes.ipynb
+* juegos.ipynb
+* noticias.ipynb
+* peliculas.ipynb
 
 Como resultado de la ejecución de cada apartado de codigo los datos se extraerán de los gestores de bases de datos y finalmente se almacenarán en el datalake.
 
