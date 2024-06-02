@@ -22,9 +22,9 @@ El proyecto se centra en la creación de un datalake que almacena datos de difer
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
 * Python 3.7 o superior
 * Jupyter Notebook o Visual Studio Code
-Librerias necesarias para instalar y ejecutar Jupyter Notebook
-* pip install notebook
-* pip install jupyterlab
+	Librerias necesarias para instalar y ejecutar Jupyter Notebook
+	- pip install notebook
+	- pip install jupyterlab
 	 
 
 **Instalación**
