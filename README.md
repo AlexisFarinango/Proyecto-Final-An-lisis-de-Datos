@@ -32,16 +32,16 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 Clona este repositorio en tu máquina local.
 Descarga todos los archivos necesarios.
 Instala las dependencias: 
-	* requests 
-	* BeautifulSoup 
-	* pymongo 
-	* sqlite3
-	* myqsl.connector 
-	* sqlalchemy 
-	* pymysql
-	* boto3 
-	* pyodbc
-	* pandas
+* requests 
+* BeautifulSoup 
+* pymongo 
+* sqlite3
+* myqsl.connector 
+* sqlalchemy 
+* pymysql
+* boto3 
+* pyodbc
+* pandas
 
 
 **Ejecución**
